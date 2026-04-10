@@ -1,21 +1,25 @@
-# Problem-Statement-of-IPL-Dataset
-Problem Statement of IPL Dataset
+IPL Data Analysis Dashboard 📊
 
-IPL Dataset Case Study :
-Problem StatementYou have been provided with the IPL Dataset. Go through the data set carefully and
-answer the questions listed below, which will eventually guide you and give you some
-insights about the same.
+This project presents an interactive data analysis dashboard built using IPL match data to uncover key insights and trends across multiple seasons.
 
-Before proceeding with solving the questions, make sure you follow the data processing
-step mentioned below. (In the same excel sheet )
+The dashboard focuses on:
 
-You have been provided with a IPL Dataset, but it has similar teams with multiple name,
-for example Rising Pune Supergiants, Rising Pune Supergiant & Pune Warriors. In order
-to remove redundancy from the dataset change the name of
+📌 Match-wise performance analysis
+📊 Team-wise win distribution
+🏏 Season-based comparisons
+🎯 Winner analysis across teams
+📈 Visual insights using scatter plots and bar charts
 
-● Rising Pune Supergiant, Pune Warriors => Rising Pune Supergiants
-● Delhi Capitals => Delhi Daredevils
+Key features include:
+  Interactive filters for seasons and teams
+  Clear visualization of match counts and win patterns
+  Comparative analysis of team performance over time
 
-At the end submit the final dashboard which will be created while solving the questions
-given in the next section.
+Tools & Technologies Used:
+  1. Power BI / Excel (based on your tool)
+  2. Data Cleaning & Transformation
+  3. Data Visualization Techniques
 
+This project demonstrates strong analytical thinking, data storytelling, and dashboard design skills, making it a valuable addition to a data analyst portfolio.
+
+<img width="1115" height="516" alt="{74C5848D-0C97-4A3F-820F-F5B81A06EB1F}" src="https://github.com/user-attachments/assets/2b661c57-efba-49f0-83a0-f6e2bbcd44d1" />
